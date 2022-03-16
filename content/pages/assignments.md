@@ -11,7 +11,15 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-Does inline code work ? Like the quick brown fox? z
+Does inline `code` work ? Like the `quick brown fox`? Cool.
+
+Inline code example: `python manage.py` cool and `more`  _bold_
+
+```c
+Sweet
+```
+
+A bove "python manage.py" is surrounded in backticks.
 
 ## Written Assignments
 
